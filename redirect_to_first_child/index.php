@@ -16,7 +16,7 @@ Plugin::setInfos(array(
     'id'          => 'redirect_to_first_child',
     'title'       => 'Redirect To First Child',
     'description' => 'Redirects page to its first child.',
-    'version'     => '0.1.4',
+    'version'     => '0.1.5',
     'license'     => 'MIT',
     'author'      => 'Jonne Haß/Mika Tuupola',
     'website'     => 'https://github.com/prellele/wolf_redirect_to_first_child'
