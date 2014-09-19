@@ -13,13 +13,13 @@
  */
 
 Plugin::setInfos(array(
-    'id'          => 'first_child',
-    'title'       => 'First Child',
+    'id'          => 'redirect_to_first_child',
+    'title'       => 'Redirect To First Child',
     'description' => 'Redirects page to its first child.',
     'version'     => '0.1.4',
     'license'     => 'MIT',
     'author'      => 'Jonne Haß/Mika Tuupola',
-    'website'     => 'https://github.com/MrZYX/wolf_first_child'
+    'website'     => 'https://github.com/prellele/wolf_redirect_to_first_child'
 ));
 
-Behavior::add('Redirect_to_first_child', 'first_child/first_child.php');
+Behavior::add('Redirect_to_first_child', 'redirect_to_first_child/redirect_to_first_child.php');
