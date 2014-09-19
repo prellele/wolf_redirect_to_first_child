@@ -2,20 +2,18 @@
 
 You can find WolfCMS [here](https://wolfcms.org)
 
-A bit dirty, so no warranties.
-
-Tested with WolfCMS 0.7.5
+Tested with WolfCMS 0.8.1
 
 ## Installation
 
     cd into your wolf root
     cd wolf/plugins
-    git clone git@github.com:MrZYX/wolf_first_child.git first_child
+    git clone git@github.com:prellele/wolf_redirect_to_first_child.git first_child
 
 
 * Go to your admin panel.
 * Go to Administration.
-* Check the box under Enable for First Child.
+* Check the box under Enable for Redirect To First Child.
 
 
 ## Usage
