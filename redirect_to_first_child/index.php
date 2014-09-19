@@ -19,7 +19,7 @@ Plugin::setInfos(array(
     'version'     => '0.1.5',
     'license'     => 'MIT',
     'author'      => 'Jonne Haß/Mika Tuupola',
-    'website'     => 'https://github.com/prellele/wolf_redirect_to_first_child'
+    'website'     => 'https://github.com/prellele/wolf_redirect_to_first_child',
     'update_url'  => 'https://raw.githubusercontent.com/prellele/wolf_redirect_to_first_child/master/plugin-versions.xml'
 ));
 
