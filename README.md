@@ -6,9 +6,8 @@ Tested with WolfCMS 0.8.1
 
 ## Installation
 
-    cd into your wolf root
-    cd wolf/plugins
-    git clone git@github.com:prellele/wolf_redirect_to_first_child.git first_child
+    git clone git@github.com:prellele/wolf_redirect_to_first_child.git
+    copy "redirect_to_first_child" dir into your wolfcms plugin dir
 
 
 * Go to your admin panel.
